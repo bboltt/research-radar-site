@@ -2,6 +2,7 @@
 
 
 ## Briefings
+- [2026-03-20 — fraud detection](briefings/2026-03-20-fraud-detection.md)
 - [2026-03-19 — fraud detection](briefings/2026-03-19-fraud-detection.md)
 - [2026-03-19 — fraud detection](briefings/2026-03-19-fraud-detection.md)
 - [2026-03-19 — fraud detection](briefings/2026-03-19-fraud-detection.md)
