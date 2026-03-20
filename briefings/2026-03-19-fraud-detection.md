@@ -2,28 +2,30 @@
 
 ## Papers/Research
 
-1. **A Multi-Scale Graph Learning Framework with Temporal Consistency Constraints for Financial Fraud Detection in Transaction Networks under Non-Stationary Conditions** — Graph-based approach modeling temporal drift and class imbalance in transaction networks to detect sparse anomalies. (arxiv, relevance: 10)
+- **A Multi-Scale Graph Learning Framework with Temporal Consistency Constraints for Financial Fraud Detection in Transaction Networks under Non-Stationary Conditions** (Relevance: 10) — Proposes a framework addressing sparse anomalies, dynamic patterns, and severe class imbalance with temporal drift in financial transaction networks. — *arxiv.org/abs/2603.14592v1*
 
-2. **Privacy-Preserving Federated Fraud Detection in Payment Transactions with NVIDIA FLARE** — Explores federated learning for collaborative fraud detection across institutions while preserving data privacy and sovereignty. (arxiv, relevance: 10)
+- **Privacy-Preserving Federated Fraud Detection in Payment Transactions with NVIDIA FLARE** (Relevance: 10) — Explores federated learning to enable collaborative fraud detection across institutions while complying with privacy and data-sovereignty constraints. — *arxiv.org/abs/2603.13617v1*
 
-3. **EmDT: Embedding Diffusion Transformer for Tabular Data Generation in Fraud Detection** — Proposes synthetic data generation using clustered embedding diffusion transformers to address severe class imbalance in fraud datasets. (arxiv, relevance: 10)
+- **EmDT: Embedding Diffusion Transformer for Tabular Data Generation in Fraud Detection** (Relevance: 10) — Introduces a clustered embedding diffusion transformer for synthetic tabular data generation to handle class imbalance in fraud datasets. — *arxiv.org/abs/2603.13566v1*
+
+- **A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems** (Relevance: 8) — Compares Euclidean vs. hyperbolic GNNs for analyzing Bitcoin transaction networks and entity detection tasks. — *arxiv.org/abs/2603.16080v1*
 
 ## GitHub Repositories
 
-1. **Fraud-Detection-Handbook/fraud-detection-handbook** ⭐ 682 — Reproducible machine learning handbook for credit card fraud detection (Jupyter Notebook).
+- **Fraud-Detection-Handbook/fraud-detection-handbook** ⭐ 682 — Reproducible Machine Learning for Credit Card Fraud Detection — Practical Handbook.
 
-2. **aws-samples/fraud-detection-using-machine-learning** ⭐ 333 — End-to-end demo architecture for fraud prediction using Amazon SageMaker.
+- **aws-solutions-library-samples/fraud-detection-using-machine-learning** ⭐ 333 — End-to-end demo architecture for predicting fraud events using Amazon SageMaker.
 
-3. **papa-torb/adtruth** ⭐ 219 — Open-source ad fraud detection for small businesses; detects click fraud and bot traffic from Google/Facebook Ads.
+- **papa-torb/adtruth** ⭐ 219 — Open-source ad fraud detection for small businesses using ML. Detects click fraud and bot traffic from Google Ads, Facebook Ads, and other platforms.
 
-4. **JarFraud/FraudDetection** ⭐ 162 — Accounting fraud detection using machine learning (MATLAB).
+- **JarFraud/FraudDetection** ⭐ 162 — Accounting Fraud Detection using Machine Learning (MATLAB).
 
-5. **shxu7788/FraudShield** ⭐ 120 — Enhanced credit card fraud detection using ML techniques (Jupyter Notebook).
+- **shxu7788/FraudShield** ⭐ 120 — Enhanced Credit Card Fraud Detection using Machine Learning.
 
 ## Community Discussions
 
-1. **We investigated Amsterdam's attempt to build a 'fair' fraud detection model** — 88 points — Investigation into fairness considerations in municipal fraud detection systems.
+- **Tell HN: Automatic fraud detection is making my life hell** — 402 points — Hacker News discussion on frustrations with automated fraud detection systems.
 
-2. **How Bolt does fraud detection better** — 70 points — Case study on ride-sharing platform Bolt's fraud detection approach.
+- **We investigated Amsterdam's attempt to build a 'fair' fraud detection model** — 88 points — Investigation into fairness considerations in Amsterdam's fraud detection model development.
 
-3. **Machine learning for fraud detection** — 70 points — Stripe's early blog on applying ML to fraud reporting.
+- **How Bolt does fraud detection better** — 70 points — Blog post on Bolt's approach to fraud detection.
